@@ -8,4 +8,4 @@ How optimistic should these initializations be?
 According to this experiment, optimistic values that are closer to reality allow faster convergence, which makes sense.
 one interesting thing though was if the initiation value is below the true expectation, and the algo is greedy, then it is pretty likely to keep picking it afterward, even if it's not optimal (as seen with the blue line, for init=0)
 
-![alt text]([http://url/to/img.png](https://github.com/AriveIT/ML-Experiments/blob/master/KArmedBanditExperiment/ConstantVariance.png))
+![alt text](https://github.com/AriveIT/ML-Experiments/blob/master/KArmedBanditExperiment/ConstantVariance.png)
