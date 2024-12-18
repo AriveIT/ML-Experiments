@@ -6,7 +6,7 @@ MSE:
 ![alt text](https://github.com/AriveIT/ML-Experiments/blob/master/Autoencoder/mse_reconstructions.png))
 
 SSI:
-![alt text(https://github.com/AriveIT/ML-Experiments/blob/master/Autoencoder/ssim_reconstructions.png)
+![alt text](https://github.com/AriveIT/ML-Experiments/blob/master/Autoencoder/ssim_reconstructions.png)
 
 Also compared how the size of the latent space impacted the loss
 ![alt text](https://github.com/AriveIT/ML-Experiments/blob/master/Autoencoder/loss_vs_latent_space_size.png)
