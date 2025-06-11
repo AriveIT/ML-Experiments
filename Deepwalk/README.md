@@ -1,0 +1,1 @@
+Using the deepwalk algorithm (from https://arxiv.org/pdf/1403.6652) and k-means clustering on the karate club dataset (from https://www.journals.uchicago.edu/doi/epdf/10.1086/jar.33.4.3629752) to estimate the subgroups after the club fissured.
